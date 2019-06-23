@@ -1,0 +1,12 @@
+body {
+    text-align: center;
+    background: url("https://www.seriouseats.com/images/2017/06/20170620-water-bottle-vicky-wasik-group1.jpg");
+}
+
+input, button {
+    display: block;
+    margin: auto;
+    width: 350px;
+    height: 100px;
+}
+
